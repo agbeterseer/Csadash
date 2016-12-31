@@ -14,8 +14,8 @@ public class Agents
 	private String agentId;
 	private String agentName;
 	
-	public Agents(){
-	}
+//	public Agents(){
+//	} 
 
 	public String getQueueName() {
 		return queueName;
